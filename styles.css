@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border:1px solid black
+}
+table{
+	border-collapse:collapse;
+	width:50%
+}
+.head{
+	color:white;
+	background-color:brown;
+}
+.r1{
+	color:white;
+	background-color:pink;
+}
